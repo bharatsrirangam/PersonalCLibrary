@@ -1,4 +1,4 @@
-#{Personal C Library}
+#Personal C Library
 This is a collection of all the library files I have made/use for any of my C projects.
 
 ## Usage
